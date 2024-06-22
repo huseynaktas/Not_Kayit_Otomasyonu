@@ -107,3 +107,6 @@ Formun yapıcı (constructor) metodudur. Form bileşenlerini başlatır (`Initia
   - `TBLDERS` tablosu tekrar doldurulur (`this.tBLDERSTableAdapter.Fill`).
 ### FrmOgretmenDetay() Örnek Ekran Görüntüsü
 ![FrmOgretmenDetay](https://github.com/huseynaktas/Not_Kayit_Otomasyonu/assets/114494075/3a420415-8c2c-49c4-b0c9-5047c55016cc)
+
+## Kullanılan Veritabanının Diyagramı
+![Veritabanı](https://github.com/huseynaktas/Not_Kayit_Otomasyonu/assets/114494075/906a0fa7-8e62-496e-8f6e-b0548a91a747)
